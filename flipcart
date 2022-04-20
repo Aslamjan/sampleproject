@@ -2,3 +2,7 @@ Git is the one scm tool
 Most of the org are simply rely on it cos of its advantage
 never the less other scm tools like svn, bitbucket Git is far better.
 
+In Git we have three areas
+1) working area
+2) stagging area
+3) Local repo
